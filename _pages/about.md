@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student | Researcher
+subtitle: "Contact: tianyueh8erobot [at] zju [dot] edu [dot] cn" 
 
 profile:
   align: right
