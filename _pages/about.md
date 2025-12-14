@@ -6,7 +6,7 @@ subtitle: "Contact: tianyueh8erobot [at] zju [dot] edu [dot] cn"
 
 profile:
   align: right
-  image: image.jpg
+  image: image.png
   image_circular: true # crops the image to make it circular
   more_info: 
 
