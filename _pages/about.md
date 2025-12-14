@@ -33,6 +33,6 @@ I am expected to receive my Master's degree on Robotics in March 2026, working w
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 I obtained my BSc from the College of Energy Engineering at Zhejiang University, mentored by Prof. Kuochih Chuang, who transformed my perspective on academia during a time when I hated school.
 
-My current research focuses on advanced manipulation dexterity.  Previously, I have achieved precise aggressive maneuvers in aerial robots beyond human’s capabilities in controlled settings.  I hope to see human-like manipulation autonomy in machines (as it is unique to human now), understanding the rule, principles, and limitations of artificial and natural intelligence.  
+My current research focuses on advanced manipulation dexterity.  Previously, I have achieved precise aggressive maneuvers in aerial robots beyond human’s capabilities in controlled settings.  I hope to see human-like manipulation autonomy in machines (as it is unique to human now), understanding the rules, principles, and limitations of artificial and natural intelligence.  
 
-I enjoy making friends and following soccer and table tennis matches. I'm also interested in hip-hop culture.
+I enjoy making friends, and following soccer and table tennis matches. I'm also interested in hip-hop culture.
