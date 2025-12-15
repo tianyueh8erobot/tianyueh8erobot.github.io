@@ -518,6 +518,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=xvFUxVsAAAAJ", "_blank");
         },
       },{
+        id: 'social-wechat_qr',
+        title: 'Wechat_qr',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
