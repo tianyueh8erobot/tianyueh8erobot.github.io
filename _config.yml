@@ -192,14 +192,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-keep_files:
-  - CNAME
-  - .nojekyll
   - _pages/blog.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/dropdown.md
   - _pages/profile.md
+keep_files:
+  - CNAME
+  - .nojekyll
 
 # Plug-ins
 plugins:
