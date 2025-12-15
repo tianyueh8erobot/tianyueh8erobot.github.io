@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Representative research work by Tianyue (* means equal contribution). For complete publication list, see his google scholar page.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
