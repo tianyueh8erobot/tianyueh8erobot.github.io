@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-I am a graduate student at Zhejiang University, born in Lishui, Zhejiang, and broadly interested in Robotics, [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine), and [Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence).
+I am a graduate student at Zhejiang University, born in Lishui, Zhejiang. I am broadly interested in Robotics, [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine), and [Machine Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 I am expected to receive my Master's degree on Robotics in March 2026, working with Prof. [Fei Gao](https://feigao-robotics.com/). I am also a prospective PhD student under Prof. [Yi Ma](https://people.eecs.berkeley.edu/~yima/) at The University of Hong Kong and University of California, Berkeley. Currently, I am a visiting student at The Hong Kong University of Science and Technology with Prof. [Jie Song](https://ait.ethz.ch/people/song).
