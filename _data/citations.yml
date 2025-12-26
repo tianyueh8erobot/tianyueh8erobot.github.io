@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-22'
+  last_updated: '2025-12-26'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 13
@@ -10,15 +10,19 @@ papers:
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 17
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
     citations: 2
     title: Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models
     year: '2025'
+  xvFUxVsAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation
+    year: '2025'
   xvFUxVsAAAAJ:MXK_kJrjxJIC:
-    citations: 6
+    citations: 7
     title: Flying on Point Clouds with Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
@@ -26,7 +30,7 @@ papers:
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
