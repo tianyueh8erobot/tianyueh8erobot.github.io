@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2026-01-02'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 13
@@ -34,11 +34,11 @@ papers:
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 29
+    citations: 30
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 23
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
