@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-19'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 14
@@ -38,7 +38,7 @@ papers:
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 23
+    citations: 26
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
