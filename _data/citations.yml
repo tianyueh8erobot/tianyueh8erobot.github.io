@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-02'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
-    citations: 14
+    citations: 16
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
@@ -10,7 +10,7 @@ papers:
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 22
+    citations: 23
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -20,9 +20,9 @@ papers:
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
     citations: 2
     title: Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation
-    year: '2025'
+    year: '2026'
   xvFUxVsAAAAJ:MXK_kJrjxJIC:
-    citations: 10
+    citations: 11
     title: Flying on Point Clouds with Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
