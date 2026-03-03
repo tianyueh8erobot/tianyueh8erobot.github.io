@@ -1,28 +1,28 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-03-02'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
-    citations: 14
+    citations: 16
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 2
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 17
+    citations: 23
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
-    citations: 2
-    title: Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models
+    citations: 3
+    title: Automatic generation of aerobatic flight in complex environments via diffusion models
     year: '2025'
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 2
     title: Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation
-    year: '2025'
+    year: '2026'
   xvFUxVsAAAAJ:MXK_kJrjxJIC:
-    citations: 8
+    citations: 11
     title: Flying on Point Clouds with Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
@@ -30,18 +30,22 @@ papers:
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 3
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 30
+    citations: 33
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 26
+    citations: 28
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
+  xvFUxVsAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'NavDreamer: Video Models as Zero-Shot 3D Navigators'
+    year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 13
     title: "Knitting Shape\u2010Memory Alloy Wires for Riding a Robot: Constraint Matters for the Curvilinear Actuation"
     year: '2022'
