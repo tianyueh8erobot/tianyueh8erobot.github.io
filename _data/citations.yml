@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-11'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -9,37 +9,41 @@ papers:
     citations: 2
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
+  xvFUxVsAAAAJ:4DMP91E08xMC:
+    citations: 9
+    title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
+    year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
     citations: 23
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: Automatic generation of aerobatic flight in complex environments via diffusion models
     year: '2025'
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
-    citations: 2
+    citations: 3
     title: Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation
     year: '2026'
-  xvFUxVsAAAAJ:MXK_kJrjxJIC:
-    citations: 11
-    title: Flying on Point Clouds with Reinforcement Learning
-    year: '2025'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 3
+    citations: 4
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 33
+    citations: 34
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 28
+    citations: 29
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
+    year: '2025'
+  xvFUxVsAAAAJ:aqlVkmm33-oC:
+    citations: 11
+    title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:qxL8FJ1GzNcC:
     citations: 0
