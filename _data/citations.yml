@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-23'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 23
+    citations: 24
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -30,7 +30,7 @@ papers:
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 4
+    citations: 5
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
