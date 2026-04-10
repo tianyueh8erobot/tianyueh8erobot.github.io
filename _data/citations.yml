@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-10'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
   xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 25
+    citations: 26
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -50,6 +50,6 @@ papers:
     title: 'NavDreamer: Video Models as Zero-Shot 3D Navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 14
     title: "Knitting Shape\u2010Memory Alloy Wires for Riding a Robot: Constraint Matters for the Curvilinear Actuation"
     year: '2022'
