@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -10,7 +10,7 @@ papers:
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
-    citations: 12
+    citations: 14
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -26,11 +26,11 @@ papers:
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 6
+    citations: 7
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 36
+    citations: 37
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Wp0gIr-vW9MC:
@@ -42,7 +42,7 @@ papers:
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 13
+    citations: 14
     title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:mVmsd5A6BfQC:
@@ -50,7 +50,7 @@ papers:
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:qxL8FJ1GzNcC:
-    citations: 3
+    citations: 4
     title: 'Navdreamer: Video models as zero-shot 3d navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
