@@ -1,24 +1,20 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-27'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 16
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 4
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
-    citations: 12
+    citations: 14
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
-  xvFUxVsAAAAJ:4TOpqqG69KYC:
-    citations: 26
-    title: Whole-body control through narrow gaps from pixels to action
-    year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: Automatic generation of aerobatic flight in complex environments via diffusion models
     year: '2025'
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
@@ -30,11 +26,11 @@ papers:
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 6
+    citations: 7
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 34
+    citations: 37
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Wp0gIr-vW9MC:
@@ -42,16 +38,20 @@ papers:
     title: Precise Aggressive Aerial Maneuvers with Sensorimotor Policies
     year: '2026'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 30
+    citations: 33
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 12
+    citations: 14
     title: Flying on point clouds with reinforcement learning
     year: '2025'
+  xvFUxVsAAAAJ:mVmsd5A6BfQC:
+    citations: 26
+    title: Whole-body control through narrow gaps from pixels to action
+    year: '2025'
   xvFUxVsAAAAJ:qxL8FJ1GzNcC:
-    citations: 1
-    title: 'NavDreamer: Video Models as Zero-Shot 3D Navigators'
+    citations: 4
+    title: 'Navdreamer: Video models as zero-shot 3d navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
     citations: 14
