@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-13'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 17
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
-    citations: 18
+    citations: 21
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -30,23 +30,23 @@ papers:
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 40
+    citations: 41
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 4
     title: Precise aggressive aerial maneuvers with sensorimotor policies
     year: '2026'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 36
+    citations: 37
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 16
+    citations: 18
     title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:mVmsd5A6BfQC:
-    citations: 28
+    citations: 29
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:qxL8FJ1GzNcC:
@@ -54,6 +54,6 @@ papers:
     title: 'Navdreamer: Video models as zero-shot 3d navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 16
     title: "Knitting Shape\u2010Memory Alloy Wires for Riding a Robot: Constraint Matters for the Curvilinear Actuation"
     year: '2022'
