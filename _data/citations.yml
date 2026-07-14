@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-07-13'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
-    citations: 16
+    citations: 17
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
-    citations: 14
+    citations: 21
     title: "Multi\u2010Mechanism Encapsulation in a Bio\u2010Stimulant\u2010Based Smart Nanocarrier Enhances Fusarium Head Blight Control Through Synergistic Action and Triggered Release"
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
@@ -18,42 +18,42 @@ papers:
     title: Automatic generation of aerobatic flight in complex environments via diffusion models
     year: '2025'
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
-    citations: 5
+    citations: 7
     title: Flying in clutter on monocular rgb by learning in 3d radiance fields with domain adaptation
     year: '2026'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
     year: '2023'
   xvFUxVsAAAAJ:ULOm3_A8WrAC:
-    citations: 7
+    citations: 8
     title: Reactive Aerobatic Flight via Reinforcement Learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 37
+    citations: 41
     title: Learning Speed Adaptation for Flight in Clutter
     year: '2024'
   xvFUxVsAAAAJ:Wp0gIr-vW9MC:
-    citations: 0
-    title: Precise Aggressive Aerial Maneuvers with Sensorimotor Policies
+    citations: 4
+    title: Precise aggressive aerial maneuvers with sensorimotor policies
     year: '2026'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 33
+    citations: 37
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 14
+    citations: 18
     title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:mVmsd5A6BfQC:
-    citations: 26
+    citations: 29
     title: Whole-body control through narrow gaps from pixels to action
     year: '2025'
   xvFUxVsAAAAJ:qxL8FJ1GzNcC:
-    citations: 4
+    citations: 5
     title: 'Navdreamer: Video models as zero-shot 3d navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 16
     title: "Knitting Shape\u2010Memory Alloy Wires for Riding a Robot: Constraint Matters for the Curvilinear Actuation"
     year: '2022'
