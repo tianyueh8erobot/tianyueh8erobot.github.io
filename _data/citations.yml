@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-31'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 17
     title: Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 5
+    citations: 7
     title: 'FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
@@ -38,11 +38,11 @@ papers:
     title: Precise aggressive aerial maneuvers with sensorimotor policies
     year: '2026'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 38
+    citations: 40
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 18
+    citations: 20
     title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:mVmsd5A6BfQC:
@@ -54,6 +54,6 @@ papers:
     title: 'Navdreamer: Video models as zero-shot 3d navigators'
     year: '2026'
   xvFUxVsAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 17
     title: "Knitting Shape\u2010Memory Alloy Wires for Riding a Robot: Constraint Matters for the Curvilinear Actuation"
     year: '2022'
