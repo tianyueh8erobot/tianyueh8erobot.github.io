@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-12'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 17
@@ -10,11 +10,11 @@ papers:
     title: 'FLOAT drone: A fully-actuated coaxial aerial robot for close-proximity operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
-    citations: 22
+    citations: 23
     title: "Multi\u2010mechanism encapsulation in a bio\u2010stimulant\u2010based smart nanocarrier enhances fusarium head blight control through synergistic action and triggered release"
     year: '2025'
   xvFUxVsAAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 6
     title: Automatic generation of aerobatic flight in complex environments via diffusion models
     year: '2025'
   xvFUxVsAAAAJ:M3ejUd6NZC8C:
