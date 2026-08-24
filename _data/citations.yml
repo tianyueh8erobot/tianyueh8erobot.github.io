@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   xvFUxVsAAAAJ:0EnyYjriUFMC:
     citations: 17
     title: Scalable distance-based multi-agent relative state estimation via block multiconvex optimization
     year: '2024'
   xvFUxVsAAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 8
     title: 'FLOAT drone: A fully-actuated coaxial aerial robot for close-proximity operations'
     year: '2025'
   xvFUxVsAAAAJ:4DMP91E08xMC:
@@ -21,6 +21,10 @@ papers:
     citations: 7
     title: Flying in clutter on monocular rgb by learning in 3d radiance fields with domain adaptation
     year: '2026'
+  xvFUxVsAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning'
+    year: '2026'
   xvFUxVsAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
     title: A decoupled and linear framework for global outlier rejection over planar pose graph
@@ -30,19 +34,19 @@ papers:
     title: Reactive aerobatic flight via reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:UebtZRa9Y70C:
-    citations: 43
+    citations: 44
     title: Learning speed adaptation for flight in clutter
     year: '2024'
   xvFUxVsAAAAJ:Wp0gIr-vW9MC:
-    citations: 6
+    citations: 7
     title: Precise aggressive aerial maneuvers with sensorimotor policies
     year: '2026'
   xvFUxVsAAAAJ:Zph67rFs4hoC:
-    citations: 47
+    citations: 48
     title: Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space
     year: '2025'
   xvFUxVsAAAAJ:aqlVkmm33-oC:
-    citations: 23
+    citations: 25
     title: Flying on point clouds with reinforcement learning
     year: '2025'
   xvFUxVsAAAAJ:mVmsd5A6BfQC:
